@@ -1,0 +1,9 @@
+{
+  "os": "linux",
+  "platform": "redhat",
+  "platform_version": "6.5",
+  "platform_family": "rhel",
+
+  "hostname": "Fauxhai",
+  "fqdn": "fauxhai.local"
+}
